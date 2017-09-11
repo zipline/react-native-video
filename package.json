@@ -32,5 +32,14 @@
     },
     "scripts": {
         "test": "node_modules/.bin/eslint *.js"
-    }
+    },
+    "files": [
+      "ios/**/*",
+      "android/**/*",
+      "android-exoplayer/**/*",
+      "windows/**/*",
+      "react-native-video.podspec",
+      "Video.js",
+      "VideoResizeMode.js"
+    ]
 }
