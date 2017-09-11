@@ -46,9 +46,6 @@
       "ios/RCTVideoPlayerViewControllerDelegate.h",
       "ios/UIView+FindUIViewController.h",
       "ios/UIView+FindUIViewController.m",
-      "android/**/*",
-      "android-exoplayer/**/*",
-      "windows/**/*",
       "Video.js",
       "VideoResizeMode.js"
     ]
