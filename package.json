@@ -34,12 +34,17 @@
         "test": "node_modules/.bin/eslint *.js"
     },
     "files": [
-      "ios/**/*",
-      "android/**/*",
-      "android-exoplayer/**/*",
-      "windows/**/*",
-      "react-native-video.podspec",
-      "Video.js",
-      "VideoResizeMode.js"
+      "ios/RCTVideo.xcodeproj",
+      "ios/RCTVideo.h",
+      "ios/RCTVideo.m",
+      "ios/RCTVideoManager.h",
+      "ios/RCTVideoManager.m",
+      "ios/RCTVideoPlayerViewController.h",
+      "ios/RCTVideoPlayerViewController.m",
+      "ios/RCTVideoPlayerViewController.m",
+      "ios/RCTVideoPlayerViewController.h",
+      "ios/RCTVideoPlayerViewControllerDelegate.h",
+      "ios/UIView+FindUIViewController.h",
+      "ios/UIView+FindUIViewController.m"
     ]
 }
